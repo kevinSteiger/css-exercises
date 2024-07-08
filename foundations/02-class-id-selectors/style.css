@@ -1,0 +1,20 @@
+
+.def{
+font-family: "Verdana", "DejaVu Sans", sans-serif;
+background-color: rgb(255, 114, 114);
+}
+
+#header1{
+    color: blue;
+    font-size: 36px;
+}
+
+.spec{
+    font-size: 24px;
+}
+
+#header2{
+    background-color: rgb(92, 247, 131);
+    font-size: 24px;
+    font-weight: bold;
+}
